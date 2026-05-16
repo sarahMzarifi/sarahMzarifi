@@ -1,4 +1,4 @@
-## Hey, I'm Sarah 👋
+## Hey, I'm Sarah ✌︎︎
 
 Cybersecurity BTech, somewhere between logic and instinct  
 I like understanding how things work — and then making them better 
@@ -18,7 +18,7 @@ I'm especially interested in:
 
 ## Things I've Worked On
 
-### AI Misuse Detection & Explainable Reporting System ( Current Work )
+### AI Misuse Detection & Explainable Reporting System ( Current Solo Work )
 An AI-driven cybersecurity platform focused on detecting risky AI interactions, sensitive data exposure, and Shadow AI misuse.
 
 Built around:
@@ -63,7 +63,7 @@ Pandas • NumPy • OpenCV • Pytesseract • Scikit-learn • Plotly • Git 
 ### Areas I'm Exploring
 Machine Learning  •Multi-Modal Sentiment Analysis • Threat Detection • Network Security • Explainable AI • Digital Forensics • Security Research
 
-## Currently
+## Currently ✧
 
 exploring where AI meets security  
 learning how systems behave under real-world conditions  
