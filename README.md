@@ -28,23 +28,12 @@ Built around:
 - explainable security reporting
 - forensic-style logging and analysis
 
-Tech used: Python, FastAPI, SQLite, HTML/CSS/JS
-
 ---
 
-### BYOD Anomaly Detection System ( Team Work )
+### BYOD Anomaly Detection System ( Current Team Work )
 A behavior-based anomaly detection system designed for BYOD environments using machine learning.
 
 The system analyzes traffic patterns and identifies suspicious behavioral deviations instead of relying only on known attack signatures.
-
-Worked with:
-- Wireshark packet capture
-- PCAP analysis
-- feature engineering
-- Isolation Forest anomaly detection
-- simulated threat scenarios
-
-Tech used: Python, Pandas, Scikit-learn
 
 ---
 
